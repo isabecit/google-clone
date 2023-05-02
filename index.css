@@ -1,0 +1,82 @@
+
+.google-simge{
+  display: flex;
+  justify-content: center;
+  }
+
+.alt-bolum{
+  display: flex;
+justify-content: center;
+
+ 
+  background-color:rgb(242, 242,
+   242);
+
+.
+
+
+}
+
+.alt-bolum p{
+  display: flex;
+  justify-content: center;
+}
+
+.alt-bolum  input {
+  width: 350px;
+
+}
+
+.alt-bolum .butonlar{
+display: flex;
+justify-content: center;
+
+}
+
+
+
+
+.kutular{
+  display: flex;
+ 
+  margin-top: 5px;
+gap:5px;
+
+}
+
+
+ .bas-kutu1  {
+  width: 550px;
+ text-align: center;
+  background-color:aqua;
+}
+.bas-kutu2{
+  
+  background-color: cadetblue;
+  width: 350px;
+  text-align: center;
+  color: blue;
+  padding: 10px;
+  
+  
+
+  
+}
+
+.bas-kutu3{
+  width: 650px;
+  background-color: rgb(60, 92, 93);
+  text-align: center;
+  
+}
+.bas-kutu3 a {
+  color: blue
+}
+
+ 
+.son-bolum{
+
+  display: flex;
+justify-content: center;
+margin-top: 20px;
+}
